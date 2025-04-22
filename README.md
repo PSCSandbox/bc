@@ -14,8 +14,8 @@ Hier geht es zu unseren Branchenlösungen.
 
 ### Kunden
 
-| Name     | Information                                                                  | Branchenlösung |
-| -------- | ---------------------------------------------------------------------------- | -------------- |
-| wpd GmbH | Projektenwicklungsdienstleister zum Bau und Betrieb von Wind- und Solarparks | Aurelo         |
-| Grässlin | Kunststoffhersteller                                                         | ---            |
-| Eltric   | Elektrogroßhandel                                                            | iTrade         |
+| Name     | Information                                                                  | Branchenlösung | AL-Go Version |
+| -------- | ---------------------------------------------------------------------------- | -------------- | ------------- |
+| wpd GmbH | Projektenwicklungsdienstleister zum Bau und Betrieb von Wind- und Solarparks | Aurelo         | 7.0           |
+| Grässlin | Kunststoffhersteller                                                         | ---            | 7.0           |
+| Eltric   | Elektrogroßhandel                                                            | iTrade         | 7.0           |
